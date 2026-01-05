@@ -1,0 +1,16 @@
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jhb09\Desktop\멋사 유니티 게임 개발 7기\코딩\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jhb09\Desktop\line7\coding\visual studio\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
