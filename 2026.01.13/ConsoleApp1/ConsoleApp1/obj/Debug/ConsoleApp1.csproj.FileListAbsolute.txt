@@ -1,0 +1,8 @@
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.13\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
