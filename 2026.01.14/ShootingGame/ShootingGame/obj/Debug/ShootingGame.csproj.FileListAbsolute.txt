@@ -1,0 +1,8 @@
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe.config
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\bin\Debug\ShootingGame.pdb
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.AssemblyReference.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\obj\Debug\ShootingGame.pdb
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\2026.01.14\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe.config
