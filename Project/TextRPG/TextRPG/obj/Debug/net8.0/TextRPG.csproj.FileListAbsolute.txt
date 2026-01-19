@@ -1,0 +1,15 @@
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.sourcelink.json
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Users\jhb09\Desktop\line7\coding\github\Lion7\Project\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll

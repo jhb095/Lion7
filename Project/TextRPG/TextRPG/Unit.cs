@@ -8,25 +8,44 @@ namespace TextRPG
 {
     internal class Unit : IAttackable
     {
-        private string name;
         private int hp;
-        private int maxHP;
         private int mp;
-        private int maxMP;
-        private int attack;
-        private int defense;
         private double attackSpeed;
-        private double criticalChance;
-        private double criticalDamage;
+
+        public string Name { get; set; } = string.Empty;
+        public int Level { get; set; } = 1;
+        public int HP
+        {
+            get => hp;
+            set => hp = Math.Clamp(value, 0, MaxHP);
+        }
+        public int MaxHP { get; set; }
+        public int MP
+        {
+            get => mp;
+            set => mp = Math.Clamp(value, 0, MaxMP);
+        }
+        public int MaxMP { get; set; }
+        public int AttackPower { get; set; }
+        public int Defense { get; set; }
+        public double AttackSpeed // 1이면 1초에 1번 공격, 0.5면 1초에 2번 공격
+        {
+            get => attackSpeed;
+            set => attackSpeed = Math.Clamp(value, 0d, 10d);
+        }
 
         public void Attack(IAttackable target)
         {
-            target.TakeDamage(this.attack);
+            int damage = AttackPower - ((Unit)target).Defense;
+
+            if (damage < 0) damage = 0;
+
+            target.TakeDamage(damage);
         }
 
         public void TakeDamage(int damage)
         {
-            this.hp = damage;
+            HP -= damage;
         }
     }
 }

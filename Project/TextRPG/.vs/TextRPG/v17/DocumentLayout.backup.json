@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{065C1278-7DD2-4AE7-A975-820D56A0FD13}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{065C1278-7DD2-4AE7-A975-820D56A0FD13}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\equipmentslottype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\equipmentslottype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\iattackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\iattackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|c:\\users\\jhb09\\desktop\\line7\\coding\\github\\lion7\\project\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D374AF6-E858-4869-9AC6-5A254A16F31B}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipmentSlotType.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\EquipmentSlotType.cs",
+              "RelativeDocumentMoniker": "TextRPG\\EquipmentSlotType.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\EquipmentSlotType.cs",
+              "RelativeToolTip": "TextRPG\\EquipmentSlotType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:01:28.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\ItemType.cs",
+              "RelativeDocumentMoniker": "TextRPG\\ItemType.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\ItemType.cs",
+              "RelativeToolTip": "TextRPG\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:20:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobType.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\JobType.cs",
+              "RelativeDocumentMoniker": "TextRPG\\JobType.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\JobType.cs",
+              "RelativeToolTip": "TextRPG\\JobType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:43:04.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAttackable.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\IAttackable.cs",
+              "RelativeDocumentMoniker": "TextRPG\\IAttackable.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\IAttackable.cs",
+              "RelativeToolTip": "TextRPG\\IAttackable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:43:02.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Item.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Item.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Item.cs",
+              "RelativeToolTip": "TextRPG\\Item.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:21:45.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Unit.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Unit.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Unit.cs",
+              "RelativeToolTip": "TextRPG\\Unit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:43:00.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Monster.cs",
+              "RelativeToolTip": "TextRPG\\Monster.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:43:03.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Player.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Player.cs",
+              "RelativeToolTip": "TextRPG\\Player.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAO8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:42:56.272Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "TextRPG\\MainGame.cs",
+              "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\MainGame.cs",
+              "RelativeToolTip": "TextRPG\\MainGame.cs",
+              "ViewState": "AgIAANYCAAAAAAAAAAAAAPMCAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:42:53.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Program.cs",
               "RelativeDocumentMoniker": "TextRPG\\Program.cs",
               "ToolTip": "C:\\Users\\jhb09\\Desktop\\line7\\coding\\github\\Lion7\\Project\\TextRPG\\TextRPG\\Program.cs",
               "RelativeToolTip": "TextRPG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T04:28:30.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T07:42:18.463Z"
             }
           ]
         }
